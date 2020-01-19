@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Pages
+## Search Page
 
 <p align="center">
 <img src="https://github.com/CuneytYilmaz/hooks-news/blob/master/src/img/SearchPage.png" height="450"/>
